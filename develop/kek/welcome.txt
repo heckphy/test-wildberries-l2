@@ -1,0 +1,30 @@
+bla1
+bla2
+bla3
+Welcome to Linux!
+after
+after
+after
+after
+after
+after
+after
+Linux is a free and opensource Operating system that is mostly used by
+empty1
+empty2
+empty3
+empty4
+developers and in production servers for hosting crucial components such as web
+test
+test
+test
+test
+and database servers. Linux has also made a name for itself in PCs.
+heh
+Beginners looking to experiment with Linux can get started with friendlier linux
+distributions such as Ubuntu, Mint, Fedora and Elementary OS.
+Linux
+Linux
+Linux
+gfdsg
+Linux
