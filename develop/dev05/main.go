@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	greputil "github.com/heckphy/wb-l2/develop/kek/grep"
+	greputil "github.com/heckphy/wb-l2/develop/dev05/grep"
 )
 
 func main() {
